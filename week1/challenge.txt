@@ -1,0 +1,17 @@
+<h1>다음부터</h1>
+<h3>엄지용, 2014</h3>
+
+<img width="100px" src = "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"><br>
+
+이번까지만 이렇게 하고<br>
+다음부턴 이러지 말아야지<br>
+
+<br>
+라며 버려버린 시간들이<br>
+언젠간 한대 모여<br>
+<u>우린 뭐 <b>네 <a href = "www.naver.com">인생</a> 아니었냐</b>고 따져 물어올 것만 같다.</u><br>
+
+<img width="100px" src = "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/Gmail-dfs-new.jpg"><br>
+
+사진을 받아보고 싶으면 메일주소를 써주세요!<br>
+<input>
